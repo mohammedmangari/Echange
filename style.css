@@ -1,0 +1,20 @@
+
+
+body{
+    background: linear-gradient(90deg, #79c7c7, #eb8787);;
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+    grid-gap: 15px;
+    
+}
+
+#usd , #mad{
+  color:rgb(3, 25, 53);
+  box-shadow: 2px 2px  rgb(170, 166, 166);
+  width: 200px;
+  border: 2px solid rgb(114, 107, 107);
+  border-radius: 7px;
+}
